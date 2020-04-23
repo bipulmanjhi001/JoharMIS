@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Johar MIS</string>
+    <string name="title_activity_market__charges">Market_Charges</string>
+    <string name="title_activity_market__profile">Market Profile</string>
+</resources>
