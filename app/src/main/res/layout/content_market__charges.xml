@@ -134,7 +134,7 @@
             android:layout_marginTop="20sp"
             android:background="@color/colorPrimaryDark"
             android:textColor="@android:color/white"
-            android:text="Back"
+            android:text="Next"
             android:textSize="20sp"
             android:textAllCaps="true"
             android:layout_height="50sp"/>

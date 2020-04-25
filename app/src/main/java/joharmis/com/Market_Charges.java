@@ -19,7 +19,7 @@ public class Market_Charges extends AppCompatActivity {
         back.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent=new Intent(Market_Charges.this,Market_Profile.class);
+                Intent intent=new Intent(Market_Charges.this,Add_Products.class);
                 startActivity(intent);
             }
         });

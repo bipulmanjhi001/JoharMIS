@@ -2,4 +2,8 @@
     <string name="app_name">Johar MIS</string>
     <string name="title_activity_market__charges">Market_Charges</string>
     <string name="title_activity_market__profile">Market Profile</string>
+    <string name="title_activity_add__products">Add_Products</string>
+    <string name="title_activity_add__goatry__products">Add_Goatry_Products</string>
+    <string name="title_activity_add__ntfp__products">Add_Ntfp_Products</string>
+    <string name="title_activity_add__poultry__products">Add Poultry Products</string>
 </resources>

@@ -9,14 +9,33 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
+        <activity
+            android:name=".Add_Ntfp_Products"
+            android:label="@string/title_activity_add__ntfp__products"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".Add_Goatry_Products"
+            android:label="@string/title_activity_add__goatry__products"
+            android:screenOrientation="portrait" />
+
+        <activity android:name=".Add_Poultry_Products"
+            android:label="@string/title_activity_add__poultry__products"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name=".Add_Products"
+            android:label="@string/title_activity_add__products"
+            android:screenOrientation="portrait" />
+
         <activity
             android:name=".Market_Charges"
-            android:screenOrientation="portrait"
-            android:label="@string/title_activity_market__charges" />
-
-        <activity android:name=".Market_Profile"
+            android:label="@string/title_activity_market__charges"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Market_Profile"
             android:screenOrientation="portrait">
-
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
